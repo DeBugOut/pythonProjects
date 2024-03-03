@@ -11,7 +11,7 @@ def main():
         #Ask the user for what they want to calculate:
         choice = input("""What would you like to calculate
         1) Side Area
-        2) Cube Side Area
+        2) Total Cube Side Area
         3) Cube Volume\n""")
 
         #Takes the value of Side Length
